@@ -8,21 +8,21 @@ Implementation of two different end-to-end ML models; a multilayer perceptron (i
    git clone https://github.com/crismartinezco/MusicGenreClassifier
 
 2. Navigate to the project directory:
-```bash
+   ```bash
    cd your-repo```
 
 3. Install dependencies:
-```bash
+   ```bash
    pip install -r requirements.txt
 
 ## Usage
 
 The models are deployed with uvicorn, although any service can work by exporting the models. To deploy the code straight after installation run the following code:
 
-```bash
+   ```bash
    uvicorn MGCDeployment:app --host 0.0.0.0 --port 8000
 
-```bash
+   ```bash
    jupyter lab
 
 Run the MCG GUI notebook.
