@@ -17,17 +17,17 @@ Implementation of two different end-to-end ML models; a multilayer perceptron (i
 
 ## Usage
 
-The models are deployed with uvicorn, although any service can work by exporting the models. To deploy the code straight after installation run the following code:
+The models are deployed with uvicorn, although any service can work by exporting the models. 
+
+1. To deploy the code straight after installation run the following code:
    ```bash
    uvicorn MGCDeployment:app --host 0.0.0.0 --port 8000
 
-
-Then run jupyter lab:
+2. Then run jupyter lab:
    ```bash
    jupyter lab
 
-
-Run the MCG GUI notebook.
+3. Run the MCG GUI notebook.
 
 ## Features
 
