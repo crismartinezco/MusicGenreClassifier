@@ -9,7 +9,7 @@ Implementation of two different end-to-end ML models; a multilayer perceptron (i
 
 2. Navigate to the project directory:
    ```bash
-   cd your-repo```
+   cd your-repo
 
 3. Install dependencies:
    ```bash
@@ -21,6 +21,8 @@ The models are deployed with uvicorn, although any service can work by exporting
 
    ```bash
    uvicorn MGCDeployment:app --host 0.0.0.0 --port 8000
+
+Then run jupyter lab:
 
    ```bash
    jupyter lab
