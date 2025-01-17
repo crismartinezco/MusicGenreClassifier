@@ -48,3 +48,4 @@ Here are some known bugs and limitations in this project:
 
 ## License
 
+This project is licensed under the MIT License. Development and code was inspired from the video series Pytorch - AI for Audio from Valerio Velardo in YouTube.
