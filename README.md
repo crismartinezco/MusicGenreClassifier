@@ -8,12 +8,12 @@ Implementation of two different end-to-end ML models; a multilayer perceptron (i
    git clone https://github.com/crismartinezco/MusicGenreClassifier```
 
 2. Navigate to the project directory:
-```bash```
-cd your-repo
+```bash
+cd your-repo```
 
 3. Install dependencies:
-```bash```
-pip install -r requirements.txt
+```bash
+pip install -r requirements.txt```
 
 ## Usage
 
