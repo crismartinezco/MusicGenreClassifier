@@ -1,5 +1,5 @@
 # :musical_note: Music Genre Classifier
-Implementation of two different end-to-end ML models using Tensorflow and Keras; a multilayer perceptron (including an approach to solving overfitting) and a convolutional neural network, for music genre classification using the GTZAN Dataset (https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification).
+Implementation and accuracy comparison of two different end-to-end ML models using Tensorflow and Keras; a multilayer perceptron (including an approach to solving overfitting) and a convolutional neural network, for music genre classification using the GTZAN Dataset (https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification).
 
 ## Installation
 
